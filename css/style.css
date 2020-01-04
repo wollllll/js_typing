@@ -1,0 +1,9 @@
+.container {
+    width: 400px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+#start {
+    font-size: 30px;
+}
